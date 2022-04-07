@@ -2,13 +2,14 @@
 `Git clone https://github.com/dothibichtram/interview.git`
 
 #### run Server
-`cd /backend`
-`npm i`
-`npm start`
+- `cd /backend`
+- `npm i`
+- `npm start`
 
 #### run Expo
-`npm i`
-`npm start`
+- `cd /frontend`
+- `npm i`
+- `npm start`
 
 #### result
 ![screen_shot](https://user-images.githubusercontent.com/90895934/162260460-c7ff03bb-2919-4c95-be90-a73732bc7750.png)
