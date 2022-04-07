@@ -1,5 +1,5 @@
 #### clone code
-`Git clone https://github.com/thcuong1999/luan_van_tca.git`
+`Git clone https://github.com/dothibichtram/interview.git`
 
 #### run Server
 `cd /backend`
